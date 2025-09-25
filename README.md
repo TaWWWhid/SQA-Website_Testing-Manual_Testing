@@ -50,5 +50,5 @@ The bug report includes detailed descriptions with **steps to reproduce, expecte
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/TaWWWhid/SQA-Website-Testing-Manual-Testing.git
-   cd SQA-Website-Testing-Manual-Testing
+   git clone https://github.com/TaWWWhid/SQA-Website_Testing-Manual_Testing.git
+   cd SQA-Website_Testing-Manual_Testing
